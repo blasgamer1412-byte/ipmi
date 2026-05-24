@@ -50,7 +50,7 @@ void draw(){
     
     fill(0);
     textSize(37);
-    textAlign(LEFT, BASELINE); // 
+    textAlign(CENTER, CENTER); // 
     text("`PRESIONA CUALQUIER TECLA´",60,400);
   }
   
